@@ -1,4 +1,4 @@
 # ProjectA-1
-Estudos em tecnologias nodeJS
+Projeto realizado durante estudo em tecnologias utilizadas com NodeJS
 
-Seguindo a Masterclass sobrte TypeScript: https://www.youtube.com/watch?v=0mYq5LrQN1s&t=13s
+Seguindo a MasterClass sobre TypeScript disponibilizada pela Rocketseat ==> https://youtu.be/0mYq5LrQN1s
